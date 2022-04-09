@@ -76,7 +76,7 @@ class Cycling extends Workout {
 // Application architecture
 class App {
   #map;
-  #mapZoomLevel = 13;
+  #mapZoomLevel = 16;
   #mapEvent;
   #workouts = [];
 
